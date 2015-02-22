@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TabIntent</string>
+    <string name="text_Events">Это первое Activity</string>
+    <string name="text_Clients">Это второе Activity</string>
+    <string name="text_Goods">Это третье Activity</string>
+</resources>
